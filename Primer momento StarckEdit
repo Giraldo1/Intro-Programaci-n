@@ -1,0 +1,38 @@
+# Esto es un titulo H1
+## Esto es un titulo H2
+### Esto es un titulo H3
+
+Esto es un texto descriptivo **Texto en negrita**
+
+> Esto es un bloque de texto o comentario 
+- Item 1
+- Item 2
+- Item 3
+'jdkd
+
+[url] [google.com]
+
+
+
+
+![](https://img.freepik.com/foto-gratis/pintura-lago-montana-montana-al-fondo_188544-9126.jpg?w=826&t=st=1712065217~exp=1712065817~hmac=4b1df639a628bc7db9fbc740891c19cf5825e803a0c756c0a192fc8f9f4aed62)
+Se escribe en el corchete el link de la imagen.
+
+- [X] Creación de usuario
+- [X] Eliminar usario
+- [ ] Actualizar usuario
+
+''' ''' 
+
+## Creación de tabla
+
+| Nombre | Apellido | Documento |
+|-----------|-----------|----|
+|Daniel|Gomez|1036599521|
+|Juan|ramirez|1036291013|
+
+
+ 
+
+
+
